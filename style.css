@@ -1,17 +1,47 @@
-#logo{
-    background-color: white;
+/*create header*/
+
+#Logo{
+    background-color: #ffffff;
     height: 73px;
+    background-repeat: repeat-x;
+    margin: 0px;
+    padding-top: 12px;
+    padding-left: 20px;
 }
 
-img{
-    vertical-align: middle;
+#img{
+    vertical-align: middle;    
+    
 }
 
 #Toboolist{
+
     vertical-align: middle;
-    font-size: 36px;
+    font-size: 38px;
     font-family: "Montserrat", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 700;
     font-style: normal;
 }
+/*/create header*/
+
+/*create main*/
+
+body{
+    background-color: #f6f8f9;
+    margin: 0px;
+    max-width: 100%;
+}
+
+/*create conteiner*/
+#container{
+    background-color: white;
+    height: 583px;
+    width: 787px;
+    margin: 37px auto;
+    background-repeat: no-repeat;
+}
+/*/create conteiner*/
+
+/*/create butoon*/
+
+
+
