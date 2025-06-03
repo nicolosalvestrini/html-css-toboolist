@@ -1,0 +1,17 @@
+#logo{
+    background-color: white;
+    height: 73px;
+}
+
+img{
+    vertical-align: middle;
+}
+
+#Toboolist{
+    vertical-align: middle;
+    font-size: 36px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
