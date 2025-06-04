@@ -43,5 +43,39 @@ body{
 
 /*/create butoon*/
 
+/*menu selector*/
+#addtask{
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
+    margin-left: 50px;
+    background-color: #47adf1;
+    margin-top: 15px;
+}
+#addsection{
+       display: inline-block;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #d4d9dc;
+    margin-left: 5px;
+    border-color: #d4d9dc;
+    border: solid 2px;
+}
+hr{
+    height: 3px;
+    background-color: #f6f8f9;
+    margin: 0;
+    border: 0;
+    margin-top: 7px;
+}
+/*/menu selector*/
+
+
+
 
 
