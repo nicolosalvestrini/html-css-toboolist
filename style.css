@@ -18,7 +18,6 @@
 
     vertical-align: middle;
     font-size: 38px;
-    font-family: "Montserrat", sans-serif;
     font-style: normal;
 }
 /*/create header*/
@@ -29,6 +28,7 @@ body{
     background-color: #f6f8f9;
     margin: 0px;
     max-width: 100%;
+    font-family: "Montserrat", sans-serif;
 }
 
 /*create conteiner*/
@@ -56,7 +56,7 @@ body{
     margin-top: 15px;
 }
 #addsection{
-       display: inline-block;
+    display: inline-block;
     padding: 4px 10px;
     border-radius: 4px;
     font-size: 15px;
@@ -75,6 +75,49 @@ hr{
 }
 /*/menu selector*/
 
+section{
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.freccia{
+    font-size: 20px;
+}
+
+.spunta{
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 100%;
+    font-size: 10px;
+    font-weight: 500;
+    color: #64c0a8;
+    margin-left: 5px;
+    border-color: #64c0a8;
+    border: solid 2px;
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 0px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+p{
+    vertical-align: middle;
+
+}
+
+.tag{
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 8px;
+    font-size: 10px;
+    font-weight: 500;
+    color: white;
+}
+
+.editorial{
+    background-color: #47adf1;
+}
 
 
 
