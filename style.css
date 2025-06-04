@@ -34,7 +34,7 @@ body{
 #container{
     background-color: white;
     height: 633px;
-    width: 787px;
+    max-width: 787px;
     margin: 37px auto;
     background-repeat: no-repeat;
 }
@@ -52,6 +52,7 @@ body{
     background-color: #47adf1;
     margin-top: 15px;
     border: solid 2px;
+    border-color: #47adf1;
 }
 #addsection{
     display: inline-block;
@@ -112,6 +113,7 @@ p{
     font-size: 10px;
     font-weight: 500;
     color: white;
+    border-collapse: collapse;
 }
 
 .x{
