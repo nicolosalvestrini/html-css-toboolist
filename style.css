@@ -24,14 +24,13 @@
 
 /*create main*/
 
+/*create conteiner*/
 body{
     background-color: #f6f8f9;
     margin: 0px;
     max-width: 100%;
     font-family: "Montserrat", sans-serif;
 }
-
-/*create conteiner*/
 #container{
     background-color: white;
     height: 583px;
@@ -41,24 +40,23 @@ body{
 }
 /*/create conteiner*/
 
-/*/create butoon*/
-
 /*menu selector*/
 #addtask{
     display: inline-block;
     padding: 4px 10px;
-    border-radius: 4px;
+    border-radius: 5px;
     font-size: 15px;
     font-weight: 500;
     color: white;
     margin-left: 50px;
     background-color: #47adf1;
     margin-top: 15px;
+    border: solid 2px;
 }
 #addsection{
     display: inline-block;
     padding: 4px 10px;
-    border-radius: 4px;
+    border-radius: 5px;
     font-size: 15px;
     font-weight: 500;
     color: #d4d9dc;
@@ -75,6 +73,7 @@ hr{
 }
 /*/menu selector*/
 
+/*main menu fissi*/
 section{
     margin-left: 50px;
     margin-top: 35px;
@@ -115,10 +114,57 @@ p{
     color: white;
 }
 
+.x{
+     display: inline-block;
+    padding: 4px 10px;
+    border-radius: 100%;
+    font-size: 10px;
+    font-weight: 500;
+    color: #ee6a62;
+    margin-left: 5px;
+    border-color: #ee6a62;
+    border: solid 2px;
+    padding-top: 0px;
+    padding-right: 3px;
+    padding-left: 3px;
+    padding-bottom: 0px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.spazi{
+    margin-top: 35px;
+    margin-left: 50px;
+}
+/*/main menu fissi*/
+
+/*main menu variabili*/
 .editorial{
     background-color: #47adf1;
 }
 
+.q1goals{
+    background-color: #9c72e4;
+}
+
+.recruiting{
+    background-color: #64c0a8;
+}
+
+.mobile{
+    background-color: #f29e33;
+}
+
+.website{
+    background-color: #d863a0;
+}
+
+.sales{
+    background-color: #b0c926;
+}
+/*/main menu variabili*/
+
+/*/create main*/
 
 
 
